@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31">
+  <g id="a441c3ce-6bc1-424f-9269-6aa79acdd4a9" data-name="APP">
+    <g>
+      <circle cx="15.5" cy="15.5" r="15.5" fill="#b350e5"/>
+      <g>
+        <line x1="10.99" y1="15.05" x2="24.36" y2="15.05" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="8.06" y1="15.05" x2="5.07" y2="15.05" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+        <polyline points="20.35 19.52 24.85 15.02 20.53 10.7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+  </g>
+</svg>

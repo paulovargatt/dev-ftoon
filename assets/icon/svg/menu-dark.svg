@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.23 31.23">
+  <g id="be40f6d9-a71b-4413-81fb-94fa5a99f0c6" data-name="APP">
+    <g>
+      <circle cx="15.62" cy="15.62" r="15.62" fill="#b350e5"/>
+      <g>
+        <line x1="4.83" y1="11.24" x2="26.12" y2="11.24" fill="none" stroke="#171717" stroke-miterlimit="10"/>
+        <line x1="4.83" y1="15.62" x2="26.12" y2="15.62" fill="none" stroke="#171717" stroke-miterlimit="10"/>
+        <line x1="4.83" y1="19.99" x2="26.12" y2="19.99" fill="none" stroke="#171717" stroke-miterlimit="10"/>
+      </g>
+    </g>
+  </g>
+</svg>
